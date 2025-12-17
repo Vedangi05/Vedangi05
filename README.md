@@ -21,7 +21,7 @@
 
 👯 I’m looking to collaborate on projects related to AI, machine learning, and full-stack development.
 
-📚 My interests include coding, Sanskrit, history, finance, and poetry.
+📚 My interests include coding, Singing, history, finance, and poetry.
 
 ---
 
