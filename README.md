@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vedangi Deshpande/h1>
+<h1 align="center">Hi there 👋, I'm Vedangi Deshpande </h1>
 <h3 align="center">@ University of Minnesota, Twin Cities, AI-Enthusiast, Software Dev, Business Technology Analyst</h3>
 
 <p align="center">
