@@ -2,7 +2,7 @@
 <h3 align="center">@ University of Minnesota, Twin Cities, AI-Enthusiast, Software Dev, Business Technology Analyst</h3>
 
 <p align="center">
-<a href="https://projects.iampratham29.com/" target="_blank">
+<a href="https://crafts.vedangideshpande.in/" target="_blank">
 <img src="https://img.shields.io/badge/My%20Projects-black?style=for-the-badge&logo=appveyor" alt="My Projects">
 </a>
 <a href="https://github.com/iampratham29?tab=repositories" target="_blank">
