@@ -5,7 +5,7 @@
 <a href="https://crafts.vedangideshpande.in/" target="_blank">
 <img src="https://img.shields.io/badge/My%20Projects-black?style=for-the-badge&logo=appveyor" alt="My Projects">
 </a>
-<a href="https://github.com/iampratham29?tab=repositories" target="_blank">
+<a href="https://github.com/Vedangi05?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/All%20Repos-171515?style=for-the-badge&logo=github" alt="All Repos">
 </a>
 </p>
