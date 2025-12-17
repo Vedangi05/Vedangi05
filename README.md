@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=iampratham29&label=Profile%20views&color=0e75b6&style=flat&base=951" alt="iampratham29" /> 
+  <img src="https://komarev.com/ghpvc/?username=Vedangi05&label=Profile%20views&color=0e75b6&style=flat&base=951" alt="Vedangi05" /> 
 </p>
 
 ## 🚀 About Me
