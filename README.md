@@ -135,6 +135,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vedangi05&theme=tokyonight&show_icons=true&hide=stars" alt="Prathmesh's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedangi05&theme=dark" alt="Prathmesh's GitHub Streak">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedangi05&theme=dark" alt="Prathmesh's GitHub Streak"> -->
 </p>
 
